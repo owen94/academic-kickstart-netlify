@@ -10,31 +10,28 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+  "Reinforcement learning and Robotics",
+  "Neuroscience",
+  "Finance"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  institution = "Singapore University of Technology and Design"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BEng in Information Engineering"
+  institution = "Zhejiang University"
+  year = 2015
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Zuozhu Liu, I was born in 1994 in China. I received my Bachelor's degree from Zhejiang University in June 2015. During my undergraduate, I visited University of Notre Dame and University of Michigan, Ann arbor for three months in 2014.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Since September 2015, I became a Ph.D. candidate at Singapore University of Technology and Design (SUTD) under the guidance of Prof. Tony Q.S. Quek and Prof. Lin Shaowei. During June to Dec 2017, I was an intern at RIKEN AIP, Japan with Dr. Emtiyaz Khan, working on Bayesian inference and stochastic optimization. During June to Sep 2018, I was an intern at Preferred Networks Inc. in Tokyo, working on reinforcement learning.
+
+Regarding finance, I pass CFA Level 3 in 2018. 
